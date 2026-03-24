@@ -1,8 +1,8 @@
 # Bike Sharing Rental System
 
 ## Status
-🚧 Frontend Completed  
-🔧 Backend – In Progress
+    Frontend Completed  
+    Backend – In Progress
 
 ## Tech Stack
 - React / HTML / CSS / JavaScript
