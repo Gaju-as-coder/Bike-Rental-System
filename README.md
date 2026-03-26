@@ -1,6 +1,6 @@
 # Bike Sharing Rental System
 
-## Status
+## Status 
     Frontend Completed  
     Backend – In Progress
 
