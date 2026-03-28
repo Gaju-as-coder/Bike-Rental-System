@@ -16,5 +16,5 @@
 
 ## Upcoming Work
 - Authentication
-- REST APIs
+- REST APIs 
 - Database integration
